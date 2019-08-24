@@ -60,7 +60,6 @@ class App extends Component {
     }
 
     if (index === currentPair[0]) {
-      console.log("pas le droit de cliquer 2 fois sur la même carte !")
       return
     }
 
